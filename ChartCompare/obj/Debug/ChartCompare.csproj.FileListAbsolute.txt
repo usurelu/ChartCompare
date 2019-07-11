@@ -1,0 +1,10 @@
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\obj\Debug\ChartCompare.csprojResolveAssemblyReference.cache
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\obj\Debug\ChartCompare.Form1.resources
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\obj\Debug\ChartCompare.Properties.Resources.resources
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\obj\Debug\ChartCompare.csproj.GenerateResource.cache
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\obj\Debug\ChartCompare.csproj.CoreCompileInputs.cache
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\bin\Debug\ChartCompare.exe.config
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\bin\Debug\ChartCompare.exe
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\bin\Debug\ChartCompare.pdb
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\obj\Debug\ChartCompare.exe
+C:\Users\Usurelu\source\repos\ChartCompare\ChartCompare\obj\Debug\ChartCompare.pdb
